@@ -1,7 +1,7 @@
 # Ex.No:1a  			Study of Socket Programming
 
-## NAME:N.NAVYA SREE
-## REG NO:212223040138
+## NAME:MOHAN KUMAR P
+## REG NO:212222220026
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
